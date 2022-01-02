@@ -3,6 +3,10 @@
 
 ![](https://i.imgur.com/6rPk9f4.png)
 
+This theme is fork of [steam-library](https://github.com/AikoMidori/steam-library)
+Thank you [AikoMidori](https://github.com/AikoMidori) for making amazing theme.
+Don't forget to check out his work and leave him a like ❤
+
 ### Requirements
     https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest
 Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patcher.
