@@ -19,7 +19,9 @@ Don't forget to check out their work and leave them a like ❤
 
 
 
-### Requirements
+## Requirements
+
+### SteamFirendsPatcher
     https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest
 Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patcher.
 Don't forget to check out their work and leave them a like ❤
