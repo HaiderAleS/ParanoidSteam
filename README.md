@@ -25,4 +25,4 @@ Don't forget to check out his work and leave him a like ❤
     "C:/Program files (86)/Steam/steamui/"
     Copy or drag libraryroot.custom.css and config.css in.
     When everything is in place, run Phantom's patcher and you're all set!
-    (If the patcher didn't work, please click [Force Check])
+    (If the patcher didn't work, please click [Force Check]).
