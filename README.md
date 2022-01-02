@@ -34,10 +34,10 @@ Don't forget to check out his work and leave him a like ❤
 
 ### Manual Installation
 
-##### Download latest release [here](https://github.com/HaiderAleS/ParanoidSteam/releases)
+##### Download latest release [here](https://github.com/HaiderAleS/ParanoidSteam/releases).
 
     Copy all files to:
     "C:/Program files (86)/Steam/steamui/" (or your steam folder location)
-    Agree to replace files if promoted.
+    Click 'Yes" if promted to "Replace the file in the destination"
     When everything is in place, run Phantom's patcher and you're all set!
     (If the patcher didn't work, please click [Force Check])
