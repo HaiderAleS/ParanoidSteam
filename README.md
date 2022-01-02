@@ -5,15 +5,19 @@
 
 ### This is a fork of:
 
+#### UPMetroSkin
+    https://github.com/redsigma/UPMetroSkin
+Thank you [redsigma](https://github.com/redsigma) for making amazing theme.
+Don't forget to check out his work and leave him a like ❤
+
+### &
+
 #### steam-library
     https://github.com/AikoMidori/steam-library
 Thank you [AikoMidori](https://github.com/AikoMidori) for making amazing theme.
 Don't forget to check out his work and leave him a like ❤
 
-#### UPMetroSkin
-    https://github.com/redsigma/UPMetroSkin
-Thank you [redsigma](https://github.com/redsigma) for making amazing theme.
-Don't forget to check out his work and leave him a like ❤
+
 
 ### Requirements
     https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest
