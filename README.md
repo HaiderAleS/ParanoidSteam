@@ -8,21 +8,21 @@
 #### UPMetroSkin
     https://github.com/redsigma/UPMetroSkin
 Thank you [redsigma](https://github.com/redsigma) for making amazing theme.
-Don't forget to check out their work and leave him a like ❤
+Don't forget to check out their work and leave them a like ❤
 
 ### &
 
 #### steam-library
     https://github.com/AikoMidori/steam-library
 Thank you [AikoMidori](https://github.com/AikoMidori) for making amazing theme.
-Don't forget to check out their work and leave him a like ❤
+Don't forget to check out their work and leave them a like ❤
 
 
 
 ### Requirements
     https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest
 Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patcher.
-Don't forget to check out their work and leave him a like ❤
+Don't forget to check out their work and leave them a like ❤
 
 ### OldGlory (Optional)
 OldGlory is a tool that installs Themes and CSS+JS Tweaks. Read all about OldGlory here:
@@ -30,7 +30,7 @@ OldGlory is a tool that installs Themes and CSS+JS Tweaks. Read all about OldGlo
 
     https://github.com/Jonius7/SteamUI-OldGlory/releases/latest
 Thank you [Jonius7](https://github.com/Jonius7) for making the OldGlory.
-Don't forget to check out their work and leave him a like ❤
+Don't forget to check out their work and leave them a like ❤
 
 ### Manual Installation
 
