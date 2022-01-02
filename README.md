@@ -33,7 +33,9 @@ Thank you [Jonius7](https://github.com/Jonius7) for making the OldGlory.
 Don't forget to check out his work and leave him a like ❤
 
 ### Manual Installation
-Download latest [release](https://github.com/HaiderAleS/ParanoidSteam/releases)
+
+##### Download latest release[here](https://github.com/HaiderAleS/ParanoidSteam/releases)
+
 Head over to:
 "C:/Program files (86)/Steam/steamui/"
 Copy or drag libraryroot.custom.css and config.css in.
