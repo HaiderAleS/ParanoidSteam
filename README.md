@@ -36,7 +36,7 @@ Don't forget to check out their work and leave them a like ❤
 
 ## Manual Installation
 
-##### Download latest release [here](https://github.com/HaiderAleS/ParanoidSteam/releases).
+### Download latest release [here](https://github.com/HaiderAleS/ParanoidSteam/releases).
 
     Copy all files to:
     "C:/Program files (86)/Steam/" (or your steam folder location)
