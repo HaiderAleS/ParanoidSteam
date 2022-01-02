@@ -1,0 +1,162 @@
+"caption.styles"
+{
+	styles
+	{
+		//Default Style
+		FrameMinimizeButton [$WIN32||$WINDOWS||$LINUX]
+		{
+			inset="9 14 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/minimize_h"
+		}
+
+		FrameMinimizeButton:hover [$WIN32||$WINDOWS||$LINUX]
+		{
+			inset="9 14 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/minimize_hover"
+		}
+
+
+
+		FrameMinimizeButton:active [$WIN32||$WINDOWS||$LINUX]
+		{
+			bgcolor=White10
+		}
+
+
+		FrameMaximizeButton [$WIN32||$WINDOWS||$LINUX]
+		{
+			inset="9 14 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/maximize_h"
+		}
+
+		FrameMaximizeButton:hover [$WIN32||$WINDOWS||$LINUX]
+		{
+			inset="9 14 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/maximize_hover"
+		}
+
+
+
+		FrameMaximizeButton:active [$WIN32||$WINDOWS||$LINUX]
+		{
+			bgcolor=White10
+		}
+
+
+		FrameRestoreButton [$WIN32||$WINDOWS||$LINUX]
+		{
+			inset="9 14 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/restore_h"
+		}
+
+		FrameRestoreButton:hover [$WIN32||$WINDOWS||$LINUX]
+		{
+			inset="9 14 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/maximize_hover"
+		}
+
+
+
+		FrameRestoreButton:active [$WIN32||$WINDOWS||$LINUX]
+		{
+			bgcolor=White10
+		}
+
+
+		FrameCloseButton [$WIN32||$WINDOWS||$LINUX]
+		{
+			inset="9 14 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/close_h"
+		}
+
+		FrameCloseButton:hover [$WIN32||$WINDOWS||$LINUX]
+		{
+			inset="9 14 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/close_hover"
+		}
+
+
+
+		FrameCloseButton:active [$WIN32||$WINDOWS||$LINUX]
+		{
+			bgcolor=White10
+		}
+
+		FrameCloseButton:disabled [$WIN32||$WINDOWS||$LINUX]
+		{
+			inset="9 14 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/close_d"
+		}
+
+
+		//Semi Style
+		"ToolWindow FrameMinimizeButton"
+		{
+			inset="4 7 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/sm/chat_min_sm"
+		}
+		"ToolWindow FrameMinimizeButton:hover"
+		{
+			bgcolor=White05
+		}
+		"ToolWindow FrameMinimizeButton:active"
+		{
+			bgcolor=White10
+		}
+
+		"ToolWindow FrameMaximizeButton"
+		{
+			inset="4 10 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/sm/chat_max_sm"
+		}
+		"ToolWindow FrameMaximizeButton:hover"
+		{
+			bgcolor=White05
+		}
+		"ToolWindow FrameMaximizeButton:active"
+		{
+			bgcolor=White10
+		}
+
+		"ToolWindow FrameRestoreButton"
+		{
+			inset="4 10 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/sm/chat_res_sm"
+		}
+		"ToolWindow FrameRestoreButton:hover"
+		{
+			bgcolor=White05
+		}
+		"ToolWindow FrameRestoreButton:active"
+		{
+			bgcolor=White10
+		}
+
+		"ToolWindow FrameCloseButton"
+		{
+			inset="4 10 0 0"
+			render_bg{}
+			image="graphics/metro/icons/caption/sm/chat_close_sm"
+		}
+		"ToolWindow FrameCloseButton:hover"
+		{
+			bgcolor=White10
+		}
+		"ToolWindow FrameCloseButton:active"
+		{
+			bgcolor=White10
+		}
+	}
+}
