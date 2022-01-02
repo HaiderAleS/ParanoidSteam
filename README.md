@@ -3,9 +3,16 @@
 
 ![](https://i.imgur.com/6rPk9f4.png)
 
-#### This library (steamui) is a fork of steam-library.
+### This is a fork of:
+
+#### steam-library
     https://github.com/AikoMidori/steam-library
 Thank you [AikoMidori](https://github.com/AikoMidori) for making amazing theme.
+Don't forget to check out his work and leave him a like ❤
+
+#### UPMetroSkin
+    https://github.com/redsigma/UPMetroSkin
+Thank you [redsigma](https://github.com/redsigma) for making amazing theme.
 Don't forget to check out his work and leave him a like ❤
 
 ### Requirements
