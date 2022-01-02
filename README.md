@@ -34,7 +34,7 @@ OldGlory is a tool that installs Themes and CSS+JS Tweaks. Read all about OldGlo
 Thank you [Jonius7](https://github.com/Jonius7) for making the OldGlory.
 Don't forget to check out their work and leave them a like ❤
 
-### Manual Installation
+## Manual Installation
 
 ##### Download latest release [here](https://github.com/HaiderAleS/ParanoidSteam/releases).
 
